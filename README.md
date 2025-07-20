@@ -16,7 +16,8 @@ DeepHateDetect is a comprehensive research project that benchmarks 13 models—f
 ✅ Used LIME to interpret model decisions and highlight toxic language cues.
 ✅ Built a reproducible pipeline for Bengali hate speech detection.
 
----
+---<img width="3510" height="2417" alt="Diagrams ENT (1)" src="https://github.com/user-attachments/assets/a3243dda-1e9c-4184-a1fb-77d2894dbd1e" />
+
 
 ## 🗂 Dataset
 

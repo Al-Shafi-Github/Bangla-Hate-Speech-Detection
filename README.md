@@ -29,7 +29,7 @@ DeepHateDetect is a comprehensive research project that benchmarks 13 models—f
 ## 🧰 Methodology 
 
 
-![Workflow Overview](<img width="3510" height="2417" alt="Diagrams ENT (1)" src="https://github.com/user-attachments/assets/3d448cf7-db94-4666-9731-89dd0706429d" />) <sub>Figure 1: Workflow Overview for End-to-End Text Classification</sub>
+![Workflow Overview](<img src="https://github.com/user-attachments/assets/3d448cf7-db94-4666-9731-89dd0706429d" />) <sub>Figure 1: Workflow Overview for End-to-End Text Classification</sub>
 
 ### 1. Preprocessing
 

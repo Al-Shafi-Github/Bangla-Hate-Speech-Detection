@@ -75,7 +75,7 @@ DeepHateDetect is a comprehensive research project that benchmarks 13 models—f
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/DeepHateDetect.git
+git clone https://github.com/Al-Shafi-Github/DeepHateDetect.git
 cd DeepHateDetect
 ```
 

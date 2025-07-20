@@ -1,4 +1,4 @@
-# Bangla-Hate-Speech-Detection
+# DeepHateDetect: Explainable Bengali Abusive comments classification Using Transformers and LLM
 This Project aims to train different models that can detect Bengali hate speech on different social media platforms and do a comparative analysis of the models. Using statistical methods, the collected data were
 analyzed. Also, manually labeled the collected data based on sentiment. To remove punctuation
 marks, a punctuation remover is used, and regular expressions are used to remove foreign
